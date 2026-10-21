@@ -1,0 +1,1 @@
+## This folder contains documents related to testing (test plans, test cases, tes report, etc)

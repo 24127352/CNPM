@@ -1,0 +1,1 @@
+## Folder containing Vision, SRS, use cases, mockups

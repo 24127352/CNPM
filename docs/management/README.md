@@ -1,0 +1,1 @@
+# This folder contails documents related to the project planning and management
